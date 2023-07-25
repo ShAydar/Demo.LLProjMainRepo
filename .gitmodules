@@ -1,0 +1,3 @@
+[submodule "Demo.Customization"]
+	path = Demo.Customization
+	url = https://github.com/ShAydar/Demo.Customization
